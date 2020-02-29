@@ -1,4 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Instruções do RMDS
 
 O arquivo "exemplo.rmds" contém um dado encriptado:
 
