@@ -8,7 +8,7 @@ O arquivo **_exemplo.rmds_** contém um dado encriptado:
 3. Um programa irá solicitar uma senha para decriptar.
 4. Desafio: Descubra a senha!
 
-####Dica para descobrir a senha:
+#### Dica para descobrir a senha:
 _Nome do mesmo arquivo no plural_.
 
 Boa sorte! :)
